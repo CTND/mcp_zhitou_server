@@ -120,7 +120,7 @@ Hey Coder 小伙伴们！👋 我是 **PGFA**！欢迎来到我的 Zhitou HS Dat
 
 ## 🚀 如何扩展？(Adding More Tools)
 
-想让你的 AI 助手更强大？完全 OJBK！
+想让你的 AI 助手更强大？完全 OK！
 
 1.  **查阅智兔 API 文档:** 找到你想添加功能的 API 端点。
 2.  **编写 Python 函数:** 在 `mcp_zhitou_server.py` 中，仿照现有的工具函数，编写一个新的函数来调用这个 API，记得处理好参数和返回值。给函数写上清晰的 `docstring` 哦！
