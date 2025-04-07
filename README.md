@@ -2,7 +2,7 @@
 mcp_zhitou_server
 
 
-```markdown
+
 # ✨ Zhitou HS Data MCP Server (Python Edition) ✨
 
 <p align="center">
