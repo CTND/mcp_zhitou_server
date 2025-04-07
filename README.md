@@ -50,7 +50,7 @@ Hey Coder 小伙伴们！👋 我是 **PGFA**！欢迎来到我的 Zhitou HS Dat
     ```
     将 `"ZHITU_TOKEN_LIMIT_TEST"` **替换成你自己在智兔数服获取到的真实 API Token**！ 否则服务无法正常工作哦！
 
-    > **💡 安全提示:** 对于生产环境或公开仓库，强烈建议不要将 Token 直接写在代码里。可以考虑使用环境变量 (`os.environ.get('ZHITU_API_TOKEN')`) 或其他安全的配置方式。
+  
 
 ### 3. 配置 MCP 客户端
 
