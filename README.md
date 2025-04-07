@@ -40,11 +40,8 @@ Hey Coder 小伙伴们！👋 我是 **PGFA**！欢迎来到我的 Zhitou HS Dat
 
 ### 2. 获取代码 & 配置 Token
 
-*   **克隆仓库:**
-    ```bash
-    git clone <你的仓库HTTPS或SSH地址>
-    cd <仓库目录名>
-    ```
+*   **下载本仓库唯一文件mcp_zhitou_server.py**
+
 *   **🔥【宇宙级重要】🔥 配置你的 API Token:**
     打开主脚本文件 `mcp_zhitou_server.py` (或者你命名的其他主文件)，找到下面这行：
     ```python
